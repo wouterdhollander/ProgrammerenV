@@ -5,6 +5,7 @@
 		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\wouter\Documents\2016-17 School\Github\ProgV\PersonVaadin"/>
 			<item value="C:\Users\wouter\Documents\2016-17 Avondschool\Github\ProgrammerenV\AutomaticGearBox"/>
 			<item value="C:\Users\wouter\Documents\2016-17 Avondschool\Github\ProgrammerenV\PersonDemo"/>
 		</list>
